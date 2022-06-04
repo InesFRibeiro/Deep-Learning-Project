@@ -16,12 +16,11 @@ the class that the model predicts. The dataset was slightly imbalanced, a proper
 taken into account for throughout the development of the models.   
    
 <br>  
-<br>
 
 **Group Members:**   
 \- Inês Ribeiro (https://github.com/InesFRibeiro)      
 \- José Dias (https://github.com/josedias97)   
 \- Matias Neves (https://github.com/HitGobba)   
 \- Péter Hámori (https://github.com/hampet97)   
-\- Nicola Andreatta    
+\- Nicola Andreatta (https://github.com/nicolaandreatta)
     
