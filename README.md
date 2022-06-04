@@ -6,10 +6,10 @@
    
 **Group Members:**   
 \- Inês Ribeiro   
-\- José Dias (https://github.com/josedias97)
-\- Matias Neves (https://github.com/HitGobba)
-\- Péter Hamori (https://github.com/hampet97)
-\- Nicola Andreatta 
+\- José Dias (https://github.com/josedias97)   
+\- Matias Neves (https://github.com/HitGobba)   
+\- Péter Hamori (https://github.com/hampet97)   
+\- Nicola Andreatta    
     
 ### Description 
 The purpose of the current work was to build a Convolutional Neural Network (CNN) model
