@@ -1,7 +1,17 @@
-# Flower-Image-Classification-Project
-
-This project was developed for the course of Deep Learning.
-
+# Deep Learning 
+## Deep Learning Project 2021-2022   
+   
+**MSc:** Data Science and Advanced Analytics, NOVA IMS   
+**Grade:** 18 out of 20  
+   
+**Group Members:**   
+\- Inês Ribeiro   
+\- José Dias (https://github.com/josedias97)
+\- Matias Neves (https://github.com/HitGobba)
+\- Péter Hamori (https://github.com/hampet97)
+\- Nicola Andreatta 
+    
+### Description 
 The purpose of the current work was to build a Convolutional Neural Network (CNN) model
 to perform multi-class image classification to differentiate between five different types of
 flowers. To build, validate and assess CNN models, publicly available data was used from
