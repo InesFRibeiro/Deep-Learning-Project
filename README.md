@@ -5,7 +5,7 @@
 **Grade:** 18 out of 20  
    
 **Group Members:**   
-\- Inês Ribeiro   
+\- Inês Ribeiro (https://github.com/InesFRibeiro)      
 \- José Dias (https://github.com/josedias97)   
 \- Matias Neves (https://github.com/HitGobba)   
 \- Péter Hámori (https://github.com/hampet97)   
