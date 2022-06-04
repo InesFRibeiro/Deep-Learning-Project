@@ -15,9 +15,9 @@ Upon feeding an image as input to the CNN models, the expected output was the la
 the class that the model predicts. The dataset was slightly imbalanced, a property which was
 taken into account for throughout the development of the models.   
    
+<br>  
      
-     
-     
+ 
      
 **Group Members:**   
 \- Inês Ribeiro (https://github.com/InesFRibeiro)      
