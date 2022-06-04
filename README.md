@@ -16,9 +16,8 @@ the class that the model predicts. The dataset was slightly imbalanced, a proper
 taken into account for throughout the development of the models.   
    
 <br>  
-     
- 
-     
+<br>
+
 **Group Members:**   
 \- Inês Ribeiro (https://github.com/InesFRibeiro)      
 \- José Dias (https://github.com/josedias97)   
